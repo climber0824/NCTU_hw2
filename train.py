@@ -18,8 +18,6 @@ from torchvision.transforms import functional as F
 
 from torchvision.models.detection.faster_rcnn import FastRCNNPredictor, FasterRCNN
 
-from IPython.display import clear_output
-
 from utils.collect_data import train_to_csv
 from utils.engine import train_one_epoch, evaluate
 import utils.utils
