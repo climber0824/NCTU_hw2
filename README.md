@@ -6,7 +6,7 @@ Python 3.6
 PyTorch 1.5
 
 **Setup:**  
-1. Download SVHN Dataset format including train folder and test folder
+1. Download SVHN Dataset  including train folder and test folder
 2. Create a folder naming models in the current folder
 
 
