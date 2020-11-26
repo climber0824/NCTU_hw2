@@ -12,7 +12,7 @@ PyTorch 1.5
 
 **Usage:**  
 1. run mat_to_csv.py to transform .mat file to .csv
-2. run train.py to train the model , the model is from torch : faster_rcnn , and save the model to ./model
+2. run train.py to train the model , the model is from torch : faster_rcnn , and save the model to ./models
 3. run infer.py and save the prediction results to the pred_results.json in the current folder
 
 
