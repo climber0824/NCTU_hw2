@@ -6,10 +6,8 @@ Python 3.6
 PyTorch 1.5
 
 **Setup:**  
-1. Download SVHN Dataset format 1:http://ufldl.stanford.edu/housenumbers/  
-2. Create a folder naming models
-
-
+1. Download SVHN Dataset format including train folder and test folder
+2. Create a folder naming models in the current folder
 
 
 **Usage:**  
